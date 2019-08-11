@@ -1,0 +1,133 @@
+	
+body {font-family:Verdana, Arial, sans-serif;
+      background-color: #006400;
+}
+#wrapper { background-color: #371260; 
+           color: #f3f3f3;
+		   margin: auto;
+           min-width: 850px;
+		   max-width: 1200px;
+		   padding-right: 10px;
+		   padding-left:  10px;
+} 
+
+main { display: block;
+       padding: 3em;
+       background-color: #008040;
+       color: #211326;
+	   line-height: 150%;
+} 
+main a:link {color: #822ce6;}
+main a:visited {color: #822ce6;}
+main a:hover {background-color: #fbd635;}
+
+header { background-color: #f3f3f3;
+        color: #371260; 
+        font-size: 200%; 
+		text-align: center;
+        padding: 10px 10px 10px 10px;
+		text-shadow: 4px 4px 4px #fbd635;
+		font-family: Georgia, "Times New Roman", serif
+
+}
+h2 { color: #371260; 
+     font-family: arial, sans-serif;
+}
+
+.floatleft { margin: 10px;
+             float: left;
+}
+.floatright { margin: 10px;
+             float: right;
+}
+
+footer {font-size:70%;
+         text-align: center;
+		 clear: right;
+         padding-bottom:20px;
+}	
+footer a:link {color: #fcf166;}
+
+
+nav a  { text-decoration: none;
+		 color: #fbd635; 
+         padding-right: 20px;
+	     font-weight: bold;
+		 text-align: center;
+ 		}
+nav a:hover {color: #f3f3f3; 
+	text-align:center;
+		 } 
+.active {color: #f3f3f3;} 
+.feature {text-align: center;}
+  
+.topnav {
+    position: center;
+    background-color: #333;
+    overflow: hidden;
+	 }
+	 
+ 
+body 
+      {
+        background-color:#006400;
+        color:white;
+        font-family:"Avenier";
+  	  font-size:50;
+        text-align:center;
+      }
+        a:link
+      {
+        color:#808080;
+      }
+        a:visited
+      {
+        color:#191970;
+      }
+        a:hover
+      {
+        color:#808080;
+      }
+        a:active
+      {
+        color:white;
+      }
+      
+  h1
+      {
+        font-family:"Chalkboard";
+    	  font-size:90;
+  	  color:#5a2d0c;
+	  text-align:center;
+      }
+  h2
+      {
+        font-size:60;
+        text-decoration:underline;
+      }
+  h3
+      {
+        font-size:40;
+  	  color:#b38600;
+      }
+  p
+      {
+        font-size:20;
+  	  color:#ffffff;
+      }
+ ul {
+	    list-style-type: none;
+	    margin: 10;
+	    padding: 10;
+	  }
+ul li{
+	   font-size:20px;
+	  }
+table, th, td {
+	  	  border: 1px solid black;
+	  	  color:#b38600;
+	  	  align:center;
+	  	}
+      </style>
+
+	
